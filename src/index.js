@@ -3,7 +3,7 @@ function createStore(reducer) {
   let state
 
   function getState() {
-    return state 
+    return state
   }
 
   function dispatch(action) {
